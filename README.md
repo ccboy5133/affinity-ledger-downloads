@@ -2,7 +2,7 @@
 
 Installers for **Affinity Ledger**. Source code: https://github.com/ccboy5133/affinity-ledger
 
-## Latest: v1.0.0
+## Latest: v1.2.0
 
 Grab the file for your Mac from the [**Releases**](../../releases/latest) page:
 
